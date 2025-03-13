@@ -31,9 +31,9 @@ https://hh.ru/resume/b8bda9dfff0e58c54d0039ed1f707975575063
 
 Проекты:
 
-| Название проекта | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Название проекта | Описание | Навыки и инструменты |
+| :---         |     :---:      | :---          |
+| Определение выгодного тарифа для телеком компании| На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа| Python Pandas Matplotlib NumPY SkiPy описательная статистика проверка статистических гипотез|
 | git diff     | git diff       | git diff      |
 | git diff     | git diff       | git diff      |
 | git diff     | git diff       | git diff      |

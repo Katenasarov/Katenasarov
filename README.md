@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Python-разработчик, Нетология, Python-разработчик⚡.
 - Data Science, Deep Learning - ФПМИ МФТИ, Специалист по глубокому обучению⚡.
 
-✔️ Ссылка на резюме на hh.ru:
+✔️ Ссылка на резюме hh.ru:
 https://hh.ru/resume/b8bda9dfff0e58c54d0039ed1f707975575063
 
 ✔️ Содержание моего репозитория:

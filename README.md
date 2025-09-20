@@ -31,6 +31,7 @@ https://hh.ru/resume/b8bda9dfff0e58c54d0039ed1f707975575063
 
 | Название проекта | Описание | Навыки и инструменты |
 | :---: |     :---:      | :---: |
+|**Нейросеть для предсказания калорийности блюд по фотографии блюда и по ингридиентам** https://github.com/Katenasarov/calorie-prediction-project | Разработка мультимодальной нейросети, предсказывающей калорийность по фотографии блюда и списку ингредиентов. | *Python TensorFlow Computer Vision NLP Multimodal Learning CNN LSTM Transfer Learning Image Processing Токенизация Word Embeddings Pandas Matplotlib Scikit-learn OpenCV*|
 |**Классификация таблеток по их фото** https://github.com/Katenasarov/pill_classifier | Создать автоматический контроль качества через компьютерное зрение. Для этого нужно разработать алгоритм распознавания таблеток по фото. | *Python PyTorch CNN Computer Vision Image Processing Transfer Learning Scikit-learn*|
 |**Нейросеть для автодополнения текстов** https://github.com/Katenasarov/text-autocomplete | Разработка легковесной LSTM-модели для предсказания продолжения текста и её сравнение с предобученной моделью distilgpt2. | *Python PyTorch NLP LSTM / RNN Hugging Face Transformers Токенизация*|
 |**Определение выгодного тарифа для телеком компании**| На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа| *Python Pandas Matplotlib NumPY SkiPy описательная статистика проверка статистических гипотез EDA*|

@@ -32,7 +32,7 @@ https://hh.ru/resume/b8bda9dfff0e58c54d0039ed1f707975575063
 
 ✔️ Репозиторий проектов:
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Инструменты |
 | :---: |  :---: | :---: |
 |**Нейросеть для предсказания калорийности блюд по фотографии блюда и по ингридиентам** https://github.com/Katenasarov/calorie-prediction-project | Разработка мультимодальной нейросети, предсказывающей калорийность по фотографии блюда и списку ингредиентов. | *Python TensorFlow Computer Vision NLP Multimodal Learning LSTM Transfer Learning Image Processing Токенизация Word Embeddings Pandas Matplotlib Scikit-learn OpenCV*|
 |**Предсказание оттока клиентской базы.** https://github.com/Katenasarov/predict_clients | Обучить модель, которая будет предсказывать, разорвёт ли абонент договор с оператором связи. | *Python Pandas Matplotlib PhiK PyTorch SHAP Optuna Scikit-learn*|
